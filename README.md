@@ -2,4 +2,4 @@
 
 Учебный проект Яндекс.Практикум. Последний проект по вёрстке.
 
-https://github.com/Forne/zakrivayuschiy-teg-f
+https://github.com/FUCK-YANDEX/zakrivayuschiy-teg-ad
